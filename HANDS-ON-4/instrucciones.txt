@@ -1,0 +1,12 @@
+-- Al encontrarse list@ el Paciente  -en quirófano- para la intervención  y asimismo al encontrarse listos 
+    -y en quirófano- la Enfermera Asistente, el Anestesiólogo, el Cirujano en Jefe y el Cirujano 2, 
+    entonces puede comenzar la operación.
+-- El Cirujano 2 informa al Cirujano en Jefe que puede comenzar la intervención.
+-- El Cirujano en Jefe ordena al Anestesiólogo confirmar el cálculo del anestésico y lo aplique al Paciente.
+-- El Anestesiólogo confirma al Cirujano en Jefe que el/la paciente se encuentra ya sedad@.
+-- El Cirujano en Jefe ordena al Cirujano 2 que puede comenzar la intervención.
+-- El Cirujano 2 solicita material e instrumentos a la Enfermera asistente.
+-- La Enfermera asistente provee material e instrumentos al Cirujano 2.
+-- El Cirujano 2 realiza la intervención.
+-- El Cirujano 2 informa al Cirujano en Jefe sobre la finalización de la intervención.
+-- Al finalizar la intervención la Enfermera asistente puede llevar al paciente a la Sala de recuperación.
